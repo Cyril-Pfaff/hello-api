@@ -8,6 +8,6 @@ public class Outil
 {
     public static void hello( String who )
     {
-        System.out.println( "Hello (v20211206) - " + who );
+        System.out.println( "Hello (v20221116) - " + who );
     }
 }
